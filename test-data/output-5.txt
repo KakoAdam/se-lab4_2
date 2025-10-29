@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+FAIL  # <- TORPEDOs are bound to fail
+FAIL  # <- TORPEDO all now empty
